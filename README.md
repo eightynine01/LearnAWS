@@ -33,3 +33,4 @@ AWS S3 (Simple Stoage Service)는 파일을 저장하기 위한 스토리지이�
 
 
 http://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/Welcome.html
+http://bcho.tistory.com/778
